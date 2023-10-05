@@ -23,6 +23,7 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ## OUTPUT:
 
+![image](https://github.com/priya672003/InformationGathering/assets/81132849/5decde61-b8a3-46a3-8a8f-459987fd524a)
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
